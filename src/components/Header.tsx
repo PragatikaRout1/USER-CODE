@@ -12,7 +12,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center">
-            <span className="text-xl font-heading font-bold text-foreground">runwayml.com</span>
+            <span className="text-xl font-heading font-bold text-foreground">Hyphen</span>
           </Link>
 
           {/* Desktop Navigation */}
